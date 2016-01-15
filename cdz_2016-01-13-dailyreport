@@ -1,0 +1,23 @@
+1. what I did?
+
+I joined the group discussion and came up with a list of things we need to do.
+
+2. Issues we have
+
+Concerns with integrating our component to other groups' components.
+
+3. Plan moving forward
+
+
+-- Data recall from metadata
+-— Store images on cloud storage
+—- multitenancy
+—- search for tags
+—- query, play around with nosql? or sql
+—- apply frontend- json
+— tornado python
+— set up a virtual machine
+
+
+
+
