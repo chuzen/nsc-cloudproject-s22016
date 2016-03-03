@@ -1,0 +1,12 @@
+1. what I did?
+
+Played with Flask Server and was able to get "Hello World" displayed on flask2.cloudapp.net
+
+2. Issues I have
+
+The user function I might need to implement on documentDB later on and assist in Baldwin's job to implement all of our group's APIs in 
+our flask server
+
+3. Plan moving forward
+
+Meet with Baldwin and work on the flask to implement the APIs
